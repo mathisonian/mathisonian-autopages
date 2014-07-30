@@ -1,7 +1,7 @@
 mathisonian-autopages
 ============
 
-mathisonian's server for [autopages](/mathisonian/autopages).
+mathisonian's server for [autopages](http://github.com/mathisonian/autopages).
 
 ## about
 
